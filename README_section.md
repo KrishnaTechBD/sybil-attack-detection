@@ -55,5 +55,5 @@ sybil-attack-detection/
 - VANET graph by trust
 - Precision-recall by threshold
 
-## Professor-Facing One-Liner
+## One-Liner
 This repository demonstrates reproducible research engineering, clearly stated novelty, benchmark-aware evaluation, and PhD-ready technical communication.
